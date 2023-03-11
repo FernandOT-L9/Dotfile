@@ -99,14 +99,14 @@ reboot
 | **redshift** | Take care of your eyes  |
 
 
-### Audio
+**Audio**
 
 ```bash
 sudo pacman -S pulseaudio pavucontrol pamixer
 ```
 
 
-### Bright manager
+**Bright manager**
 
 ```bash
 sudo pacman -S brightnessctl
@@ -150,14 +150,22 @@ makepkg -si
 ```
 
 
-## Theme
-
-```bash
-yay -S nordic-theme
-```
+## Themes
 
 GUI for changing
 
 ```bash
 sudo pacman -S lxappearance
+```
+
+**Nordic**
+
+```bash
+yay -S nordic-theme
+```
+
+**Cursors**
+
+```bash
+yay -S sunity-cursors-git
 ```
