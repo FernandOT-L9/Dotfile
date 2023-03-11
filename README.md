@@ -1,3 +1,2 @@
 # Dotfile
-
 My Personal Config
