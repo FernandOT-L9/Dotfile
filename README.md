@@ -1,4 +1,4 @@
-# Dotfile
+# Dotfile & Config
 My Personal Config
 
 
