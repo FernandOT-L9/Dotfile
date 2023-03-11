@@ -4,7 +4,7 @@
 ## Arch installation
 
 Set your hostname in /etc/hostname
-Exaple:
+Example:
 
 ```bash
 fernando-arch
