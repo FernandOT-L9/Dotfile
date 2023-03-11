@@ -1,5 +1,4 @@
 # Dotfile & Config
-My Personal Config
 
 
 ## Dependencies
