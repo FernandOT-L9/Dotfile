@@ -3,7 +3,7 @@
 
 ## Arch installation
 
-Set your hostname in /etc/hostname
+Set your hostname in /etc/hostname.
 Example:
 
 ```bash
