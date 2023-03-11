@@ -213,7 +213,7 @@ def open_pavu():
 
 screens = [
     Screen(
-        wallpaper="~/Pictures/nasa.png",
+        wallpaper="~/Pictures/Nasa.png",
         wallpaper_mode="fill",
         top=bar.Bar(
             [
