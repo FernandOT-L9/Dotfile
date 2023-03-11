@@ -133,6 +133,22 @@ setxkbmap br &
 picom &
 ```
 
+## Yay
+
+First install the following packages
+
+```bash
+pacman -S --needed git base-devel
+```
+
+Finally restart the terminal and install yay.
+
+```bash
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+```
+
 
 ## Theme
 
